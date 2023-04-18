@@ -71,7 +71,7 @@ wget \
 
 4. Download GSR V4 database
 ```
-wget https://manichanh.vhir.org/gsrdb/etc
+wget https://manichanh.vhir.org/gsrdb/GSR-DB_V4_cluster-1.tar.gz
 tar -xvzf GSR-DB_V4_cluster-1.tar.gz
 ```
 
