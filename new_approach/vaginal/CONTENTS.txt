@@ -1,0 +1,5 @@
+CONTENTS OF /mnt/synology/DATABASES/QIIME2/SSU/gsp_99/new_approach/vaginal
+
+	- vaginal_db.csv: table with information of vaginal species and sequences ids. Obtained form a the following paper https://doi.org/10.1186/1471-2164-13-S8-S17
+	- vaginal_diltered_species.csv: table obtained by filtering the previous file. Filtering process explained in ../creation_full-16S.ipynb
+	- vaginal_taxa.txt and vaginal_seqs.fasta: taxonomy and fasta file of vaginal sequences added to the full-16S database to create gsv_99_full-16S database. Full 16S sequences. 
