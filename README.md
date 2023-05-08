@@ -106,7 +106,7 @@ Leidy-Alejandra G. Molano, Sara Vega-Abellaneda, Chaysavanh Manichanh (2023). GS
 
 Feel free to contact us if you have any feedback, questions or issues:
 
-Leidy-Alejandra G. Molano: gonmola@hotmail.com  
+Leidy-Alejandra G. Molano: gonmola@hotmail.es  
 Sara Vega-Abellaneda: saravg99@gmail.com  
 Chaysavanh Manichanh: cmanicha@gmail.com
 
