@@ -100,7 +100,7 @@ This repository contains the code and the input files for the reproducibility of
 
 If you find the GSR database helpful, please cite:
 
-Leidy-Alejandra G. Molano, Sara Vega-Abellaneda, Chaysavanh Manichanh (2023). GSR: a manually curated and optimised taxonomical database for 16S rRNA amplicon analysis. *UNPUBLISHED YET*
+Leidy-Alejandra G. Molano, Sara Vega-Abellaneda, Chaysavanh Manichanh. GSR-DB: a manually curated and optimized taxonomical database for 16S rRNA amplicon analysis. mSystems (2024) [https://doi.org/10.1128/msystems.00950-23](https://doi.org/10.1128/msystems.00950-23)
 
 ## Contact information
 
